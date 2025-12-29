@@ -206,29 +206,15 @@ Dot Pattern Background: Professional canvas appearance
 
 Responsive Layout: Flexbox-based sidebar + main content
 
-🧪 Testing
-bash
-# Run type checking
-npm run type-check
+## 🔮 **What I Would Add With More Time**
 
-# Lint code
-npm run lint
-📝 Future Enhancements
- Persistent storage (localStorage/database)
+Given this was a 1-day assignment, here's what I'd prioritize next:
 
- Export to PNG/SVG
-
- Import from JSON
-
- More node types (Loop, Parallel, API Call)
-
- Node search/filter
-
- Keyboard shortcuts
-
- Mobile touch support
-
- Collaborative editing
+- **Persistent Storage**: Save workflows to localStorage or backend
+- **Export/Import**: Download as JSON or PNG
+- **More Node Types**: Loop, Parallel execution, API calls
+- **Keyboard Shortcuts**: Faster workflow editing (Delete key, Ctrl+Z)
+- **Better Mobile Support**: Touch-optimized interactions
 
 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
